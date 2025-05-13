@@ -10,7 +10,7 @@
     <url-pattern>/color</url-pattern>
 </servlet-mapping>
 
-    <filter>
+    <filter> 
         <filter-name>ColorFilter</filter-name>
         <filter-class>controller.ColorFilter</filter-class>
     </filter>

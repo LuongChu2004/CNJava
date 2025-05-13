@@ -27,5 +27,5 @@ public class ColorFilter implements Filter {
         }
     }
     public void init(FilterConfig filterConfig) {}
-    public void destroy()
+    public void destroy() {}
    }
